@@ -1,3 +1,7 @@
+h1{
+    text-align: center; 
+}
+
 #choice{
     display: flex;
     border: 2px solid black;
